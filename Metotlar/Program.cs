@@ -44,7 +44,6 @@ namespace Metotlar
             sepetManager.Ekle2("Elma", "Yeşil elma", 12, 8);
             sepetManager.Ekle2("Çilek", "Harika çilek", 12, 7);
 
-            Console.ReadLine();
         }
     }
 }

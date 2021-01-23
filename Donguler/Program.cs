@@ -31,7 +31,6 @@ namespace Donguler
             }
 
             Console.WriteLine("Sayfa sonu - footer");
-            Console.ReadLine();
         }
     }
 }
